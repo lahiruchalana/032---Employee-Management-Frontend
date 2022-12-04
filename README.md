@@ -1,3 +1,12 @@
+## Employee Management System
+
+Used Technologies - React.JS, Axios, Bootstrap
+
+This is a simple employee management system.
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
